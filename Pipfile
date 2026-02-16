@@ -7,6 +7,8 @@ name = "pypi"
 torch = "*"
 torchvision = "*"
 numpy = "<1.24.0,>=1.21.0"
+mujoco = ">=2.3.0"
+robosuite = "==1.4.1"
 
 [dev-packages]
 
