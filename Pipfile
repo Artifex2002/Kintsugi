@@ -29,6 +29,11 @@ tqdm = "*"
 huggingface-hub = "*"
 
 [dev-packages]
+jupyter = "*"
+ipython = "*"
+matplotlib = "*"
+seaborn = "*"
+wandb = "*"
 
 [requires]
 python_version = "3.10"
